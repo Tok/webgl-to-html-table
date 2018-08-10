@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+}
+
+canvas {
+    visibility: hidden;
+}
+
+table {
+    font-family: "Lucida Console", Monaco, monospace;
+    font-weight: bold;
+    font-size: 9px;
+    border-collapse: collapse;
+}
+
+.cell {
+    border: none;
+    padding: 0px;
+    width: 10px;
+    height: 10px;
+}
